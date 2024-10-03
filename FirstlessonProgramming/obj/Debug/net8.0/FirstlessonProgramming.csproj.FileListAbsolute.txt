@@ -1,0 +1,14 @@
+C:\Users\admin\source\repos\FirstlessonProgramming\FirstlessonProgramming\bin\Debug\net8.0\FirstlessonProgramming.exe
+C:\Users\admin\source\repos\FirstlessonProgramming\FirstlessonProgramming\bin\Debug\net8.0\FirstlessonProgramming.deps.json
+C:\Users\admin\source\repos\FirstlessonProgramming\FirstlessonProgramming\bin\Debug\net8.0\FirstlessonProgramming.runtimeconfig.json
+C:\Users\admin\source\repos\FirstlessonProgramming\FirstlessonProgramming\bin\Debug\net8.0\FirstlessonProgramming.dll
+C:\Users\admin\source\repos\FirstlessonProgramming\FirstlessonProgramming\bin\Debug\net8.0\FirstlessonProgramming.pdb
+C:\Users\admin\source\repos\FirstlessonProgramming\FirstlessonProgramming\obj\Debug\net8.0\FirstlessonProgramming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\FirstlessonProgramming\FirstlessonProgramming\obj\Debug\net8.0\FirstlessonProgramming.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\FirstlessonProgramming\FirstlessonProgramming\obj\Debug\net8.0\FirstlessonProgramming.AssemblyInfo.cs
+C:\Users\admin\source\repos\FirstlessonProgramming\FirstlessonProgramming\obj\Debug\net8.0\FirstlessonProgramming.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\FirstlessonProgramming\FirstlessonProgramming\obj\Debug\net8.0\FirstlessonProgramming.dll
+C:\Users\admin\source\repos\FirstlessonProgramming\FirstlessonProgramming\obj\Debug\net8.0\refint\FirstlessonProgramming.dll
+C:\Users\admin\source\repos\FirstlessonProgramming\FirstlessonProgramming\obj\Debug\net8.0\FirstlessonProgramming.pdb
+C:\Users\admin\source\repos\FirstlessonProgramming\FirstlessonProgramming\obj\Debug\net8.0\FirstlessonProgramming.genruntimeconfig.cache
+C:\Users\admin\source\repos\FirstlessonProgramming\FirstlessonProgramming\obj\Debug\net8.0\ref\FirstlessonProgramming.dll
